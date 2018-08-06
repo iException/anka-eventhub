@@ -1,0 +1,11 @@
+{
+  "name": "anka-eventhub",
+  "version": "0.0.1",
+  "description": "An event hub for handling events in WeChat miniapps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LazyClutch",
+  "license": "ISC"
+}
